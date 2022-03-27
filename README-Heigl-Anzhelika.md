@@ -1,7 +1,7 @@
 # EXERCISES
 
 * [Exercise 1]
-* Exercise 2
+* [Exercise 2]
 * ...
 
 # LOTTO
@@ -31,3 +31,4 @@ Want to contribute? Great! Any requests are welcome.
 Email: anzhelika.heigl@edu.fh-joanneum.at
 
 [Exercise 1]: <exercise1.md>
+[Exercise 2]: <exercise2.md>
