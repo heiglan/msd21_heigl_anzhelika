@@ -17,3 +17,16 @@ Working with github: creating the first repository
 | git diff | shows the file differences which are not yet staged |
 | git pull |  is used to get updates from the remote repository|
 | git push| uploads the commits to the remote repository |
+
+## Resources:
+
+- [Pro Git book] - The entire Pro Git Book, written by Scott Chacon and Ben Straub, 2nd Edition (2014)
+- [Crash Course] - 2-Minute Git Crash Course by Dan Gitschooldude
+- [Tutorial] - Learn Git in 15 Minutes by Colt Steele
+
+[//]: # (These are reference links used in the body of this note)
+
+   [Pro Git book]: <https://git-scm.com/book/de/v2>
+   [Crash Course]: <https://www.youtube.com/watch?v=BZr7oJyh4WM>
+   [Tutorial]: <https://www.youtube.com/watch?v=USjZcfj8yxE&t=157s>
+   
