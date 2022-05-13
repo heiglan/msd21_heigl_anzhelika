@@ -3,6 +3,7 @@
 * [Exercise 1]
 * [Exercise 2]
 * [Exercise 3]
+* [Exercise 4]
 * ...
 
 # LOTTO
@@ -34,3 +35,4 @@ Email: anzhelika.heigl@edu.fh-joanneum.at
 [Exercise 1]: <exercise1.md>
 [Exercise 2]: <exercise2.md>
 [Exercise 3]: <exercise3.md>
+[Exercise 4]: <exercise4.md>
