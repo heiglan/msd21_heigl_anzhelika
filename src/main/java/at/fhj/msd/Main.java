@@ -6,22 +6,13 @@ public class Main {
     public static void main(String[] args) {
         Locale.setDefault(new Locale("en", "US"));
 
-        //enter 2 double values
-        double value1 = 3.5;
-        double value2 = 7.7;
+        System.out.printf("%.2f\n", (Calculator.minus(15.0, 5)));
+        System.out.printf("%.2f\n", (Calculator.add(12.67, 33.7)));
+        System.out.printf("%.2f\n", (Calculator.multiply(11.5, 44)));
+        System.out.printf("%.2f\n", (Calculator.divide(33.9, 11.3)));
 
+        System.out.println(Calculator.factorial(5));
 
-        //compute the result
-        String print = "%.2f%s%.2f = %.2f\n";
-
-        System.out.printf(print, value1, "+", value2, Calculator.add(value1, value2));
-        System.out.printf(print, value1, "-", value2, Calculator.minus(value1, value2));
-        System.out.printf(print, value1, "*", value2, Calculator.multiply(value1, value2));
-        if (value2 == 0) {
-            System.out.println("Division " + value1 + "/" + value2 + " is not possible!");
-        } else {
-            System.out.printf(print, value1, "/", value2, Calculator.divide(value1, value2));
-        }
     }
 }
 
