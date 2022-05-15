@@ -66,6 +66,13 @@ The assertEquals and assertsTrue methods are used to test the results.
 
 ![testCoverage](resources/images/ex4_1.png)
 
+* Method 5: Calculator.factorial
+  * 5! = 120
+  * 3! = 6
+  * 6! = 720
+
+More information on version control: https://istories.media/workshops/2022/02/04/sistema-kontrolya-versii-git-urok-2/
+
 
 
 
