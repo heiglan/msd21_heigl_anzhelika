@@ -4,7 +4,12 @@
 * [Exercise 2]
 * [Exercise 3]
 * [Exercise 4]
-* ...
+* [Exercise 5]
+
+# Configuration
+
+[Log4j2 Configuration]
+
 
 # LOTTO
 
@@ -36,3 +41,5 @@ Email: anzhelika.heigl@edu.fh-joanneum.at
 [Exercise 2]: <exercise2.md>
 [Exercise 3]: <exercise3.md>
 [Exercise 4]: <exercise4.md>
+[Exercise 5]: <exercise5.md>
+[Log4j2 Configuration]:  <src/main/resources/log4j2.xml.template>
