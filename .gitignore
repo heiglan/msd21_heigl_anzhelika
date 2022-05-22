@@ -2,4 +2,5 @@
 *.pdf
 *.idea
 *.log
-target_to_ignore/
+target/*
+log4j2.xml
