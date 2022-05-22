@@ -23,9 +23,9 @@ After the project has been run a new folder appears: **target**.
 The target folder is the maven default output folder. When a project is build or packaged, all the content of the sources, resources and web files will be put inside of it, it will be used for construct the artifacts and for run tests.
 
 
-![target](media/Screenshot_target.png)
+![target](resources/images/Screenshot_target.png)
 
 To run the program in the terminal use **mvn compile**
 
-![compile](media/Screenshot_terminal.png)
+![compile](resources/images/Screenshot_terminal.png)
 
