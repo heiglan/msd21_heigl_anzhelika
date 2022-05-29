@@ -7,6 +7,11 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
+/**
+ * Class that tests the Calculator implementation.
+ *
+ * @author Anzhelika Heigl
+ */
 public class CalculatorTest {
 
     private Calculator calculator;
