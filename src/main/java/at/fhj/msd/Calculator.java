@@ -24,13 +24,7 @@ public class Calculator {
     public static double divide(double number1, double number2) {
         logger.debug("parameters: " + number1 + ", " + number2);
         double result = 0;
-        /*try {
-            result = number1 / number2;
-        } catch (ArithmeticException e) {
-            System.out.println("Division by zero!");
-            e.printStackTrace();
 
-        }*/
         if (number2 == 0) {
             logger.error("Division by zero!");
             throw new ArithmeticException();
